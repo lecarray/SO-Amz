@@ -1,0 +1,214 @@
+{
+  "original": "IPT811准词表.xlsx",
+  "sha256": "99577a3b04fc4c5640d3e51245043b726b8d0d07f398e06119f6a90bd74beb0d",
+  "received": "2026-11-11",
+  "market": "US",
+  "ASIN": "B0HNKGSR32",
+  "summary": {
+    "全词表": {
+      "dimension": [
+        1831,
+        34
+      ],
+      "nonempty_rows": 1831,
+      "hidden_data_rows": 0,
+      "visible_data_rows": 1830,
+      "filter": "<autoFilter xmlns:etc=\"http://www.wps.cn/officeDocument/2017/etCustomData\" xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:xdr=\"http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing\" xmlns:x14=\"http://schemas.microsoft.com/office/spreadsheetml/2009/9/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" ref=\"A1:AH1831\" etc:filterBottomFollowUsedRange=\"0\"><extLst/></autoFilter>",
+      "formula_samples": []
+    },
+    "准词表": {
+      "dimension": [
+        1048576,
+        9
+      ],
+      "nonempty_rows": 1831,
+      "hidden_data_rows": 1755,
+      "visible_data_rows": 75,
+      "filter": "<autoFilter xmlns:etc=\"http://www.wps.cn/officeDocument/2017/etCustomData\" xmlns=\"http://schemas.openxmlformats.org/spreadsheetml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:xdr=\"http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing\" xmlns:x14=\"http://schemas.microsoft.com/office/spreadsheetml/2009/9/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" ref=\"A1:I1831\" etc:filterBottomFollowUsedRange=\"0\"><filterColumn colId=\"3\"><filters><filter val=\"10\"/><filter val=\"6.4\"/><filter val=\"6\"/><filter val=\"8\"/></filters></filterColumn><sortState ref=\"A1:I1831\"><sortCondition ref=\"B1:B1831\" descending=\"1\"/></sortState><extLst/></autoFilter>",
+      "formula_samples": [
+        [
+          "E60",
+          "B60/26068"
+        ],
+        [
+          "E66",
+          "B66/26068"
+        ],
+        [
+          "E132",
+          "B132/26068"
+        ],
+        [
+          "E167",
+          "B167/26068"
+        ],
+        [
+          "E204",
+          "B204/26068"
+        ],
+        [
+          "E228",
+          "B228/26068"
+        ],
+        [
+          "E237",
+          "B237/26068"
+        ],
+        [
+          "E254",
+          "B254/26068"
+        ],
+        [
+          "E262",
+          "B262/26068"
+        ],
+        [
+          "E265",
+          "B265/26068"
+        ],
+        [
+          "E271",
+          "B271/26068"
+        ],
+        [
+          "E405",
+          "B405/26068"
+        ],
+        [
+          "E417",
+          "B417/26068"
+        ],
+        [
+          "E426",
+          "B426/26068"
+        ],
+        [
+          "E462",
+          "B462/26068"
+        ],
+        [
+          "E475",
+          "B475/26068"
+        ],
+        [
+          "E481",
+          "B481/26068"
+        ],
+        [
+          "E484",
+          "B484/26068"
+        ],
+        [
+          "E526",
+          "B526/26068"
+        ],
+        [
+          "E536",
+          "B536/26068"
+        ],
+        [
+          "E548",
+          "B548/26068"
+        ],
+        [
+          "E582",
+          "B582/26068"
+        ],
+        [
+          "E595",
+          "B595/26068"
+        ],
+        [
+          "E621",
+          "B621/26068"
+        ],
+        [
+          "E634",
+          "B634/26068"
+        ],
+        [
+          "E654",
+          "B654/26068"
+        ],
+        [
+          "E663",
+          "B663/26068"
+        ],
+        [
+          "E688",
+          "B688/26068"
+        ],
+        [
+          "E728",
+          "B728/26068"
+        ],
+        [
+          "E739",
+          "B739/26068"
+        ],
+        [
+          "E753",
+          "B753/26068"
+        ],
+        [
+          "E766",
+          "B766/26068"
+        ],
+        [
+          "E771",
+          "B771/26068"
+        ],
+        [
+          "E777",
+          "B777/26068"
+        ],
+        [
+          "E784",
+          "B784/26068"
+        ],
+        [
+          "E855",
+          "B855/26068"
+        ],
+        [
+          "E865",
+          "B865/26068"
+        ],
+        [
+          "E915",
+          "B915/26068"
+        ],
+        [
+          "E916",
+          "B916/26068"
+        ],
+        [
+          "E917",
+          "B917/26068"
+        ]
+      ]
+    },
+    "词根表": {
+      "dimension": [
+        12,
+        5
+      ],
+      "nonempty_rows": 12,
+      "hidden_data_rows": 0,
+      "visible_data_rows": 11,
+      "filter": null,
+      "formula_samples": []
+    },
+    "cpc竞价估算": {
+      "dimension": [
+        17,
+        28
+      ],
+      "nonempty_rows": 16,
+      "hidden_data_rows": 0,
+      "visible_data_rows": 15,
+      "filter": null,
+      "formula_samples": []
+    }
+  }
+}

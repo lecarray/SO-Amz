@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-11",
+  "scope": "现有40个源文件；无缺失课后视频或音频",
+  "files": [
+    {
+      "id": "S",
+      "original": "course/1_橘虹跨境-Soju 高阶广告课 20260312分享学员.pdf",
+      "read_status": "231页可提取文本通读及逐页图示巡视，12无文本页放大补读；不声称逐格录入所有截图细字",
+      "record": "knowledge/reading/PDF与模板-阅读笔记.md"
+    },
+    {
+      "id": "C10",
+      "original": "course/Claude/10_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0335",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "C11",
+      "original": "course/Claude/11_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0275",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "C12",
+      "original": "course/Claude/12_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0277",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "C13",
+      "original": "course/Claude/13_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0221",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "C14",
+      "original": "course/Claude/14_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0243",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "C15",
+      "original": "course/Claude/15_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0245",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "C16",
+      "original": "course/Claude/16_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0177",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "C17",
+      "original": "course/Claude/17_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0219",
+      "record": "knowledge/reading/17-19-深读笔记.md"
+    },
+    {
+      "id": "C18",
+      "original": "course/Claude/18_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0201",
+      "record": "knowledge/reading/17-19-深读笔记.md"
+    },
+    {
+      "id": "C19",
+      "original": "course/Claude/19_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0173",
+      "record": "knowledge/reading/17-19-深读笔记.md"
+    },
+    {
+      "id": "C01",
+      "original": "course/Claude/1_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0334",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "C02",
+      "original": "course/Claude/2_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0502",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "C03",
+      "original": "course/Claude/3_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0486",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "C04",
+      "original": "course/Claude/4_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0670",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "C05",
+      "original": "course/Claude/5_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0490",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "C06",
+      "original": "course/Claude/6_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0643",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "C07",
+      "original": "course/Claude/7_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0277",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "C08",
+      "original": "course/Claude/8_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0333",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "C09",
+      "original": "course/Claude/9_整理版.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0258",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "R10",
+      "original": "course/原稿转译/10.wav05-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0165",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "R11",
+      "original": "course/原稿转译/11.wav01-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0181",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "R12",
+      "original": "course/原稿转译/12.wav01-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0260",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "R13",
+      "original": "course/原稿转译/13.wav_20260503_212846.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0203",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "R14",
+      "original": "course/原稿转译/14.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0269",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "R15",
+      "original": "course/原稿转译/15.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0271",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "R16",
+      "original": "course/原稿转译/16.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0309",
+      "record": "knowledge/reading/13-16-深读笔记.md"
+    },
+    {
+      "id": "R17",
+      "original": "course/原稿转译/17.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0167",
+      "record": "knowledge/reading/17-19-深读笔记.md"
+    },
+    {
+      "id": "R18",
+      "original": "course/原稿转译/18.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0311",
+      "record": "knowledge/reading/17-19-深读笔记.md"
+    },
+    {
+      "id": "R19",
+      "original": "course/原稿转译/19.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0203",
+      "record": "knowledge/reading/17-19-深读笔记.md"
+    },
+    {
+      "id": "R01",
+      "original": "course/原稿转译/1_整理版.docx",
+      "read_status": "正文同C01已核对去重",
+      "paragraph_range": "P0001–P0334",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "R02",
+      "original": "course/原稿转译/2-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0184",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "R03",
+      "original": "course/原稿转译/3.wav-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0147",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "R04",
+      "original": "course/原稿转译/4.wav-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0210",
+      "record": "knowledge/reading/01-04-深读笔记.md"
+    },
+    {
+      "id": "R05",
+      "original": "course/原稿转译/5.wav-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0208",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "R06",
+      "original": "course/原稿转译/6.wav-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0267",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "R07",
+      "original": "course/原稿转译/7.wav02-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0280",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "R08",
+      "original": "course/原稿转译/8.wav03-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0211",
+      "record": "knowledge/reading/05-08-深读笔记.md"
+    },
+    {
+      "id": "R09",
+      "original": "course/原稿转译/9.wav04-转写结果.docx",
+      "read_status": "全文分批阅读及原稿对照完成",
+      "paragraph_range": "P0001–P0128",
+      "record": "knowledge/reading/09-12-深读笔记.md"
+    },
+    {
+      "id": "X",
+      "original": "course/搜索词透视表模板-新.xlsx",
+      "read_status": "两表全部非空单元格与透视定义、缓存只读检查；未实测Excel/WPS交互刷新",
+      "record": "knowledge/sources/X-template.md"
+    }
+  ]
+}

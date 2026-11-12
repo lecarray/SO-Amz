@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-11",
+  "market": "US",
+  "asin": "B0HNKGSR32",
+  "model": "IPT811-UEB",
+  "source": "用户本轮文字确认；商品页两次503，未独立审阅Listing",
+  "price_usd": 109,
+  "coupon_percent": 20,
+  "coupon_redeemed_price_usd": 87.2,
+  "first_batch_received_units": 16,
+  "first_batch_air_cost_usd_per_unit": 20,
+  "second_batch_units": 32,
+  "second_batch_expected_receipt": "2026-11-20",
+  "second_batch_sea_cost_usd_per_unit": 8,
+  "fba_usd_per_unit": 8.12,
+  "interfaces": [
+    "USB",
+    "Bluetooth",
+    "LAN"
+  ],
+  "operating_systems_reported": [
+    "Windows",
+    "Mac",
+    "Linux",
+    "Android",
+    "iOS"
+  ],
+  "unsupported_apps_reported": [
+    "Square",
+    "Clover",
+    "Uber",
+    "Shopify"
+  ],
+  "supported_apps_reported": [
+    "Loyverse",
+    "自家软件"
+  ],
+  "ads_started": false,
+  "vine": "报名10台，用户称暂无领取",
+  "unknown": [
+    "实际结算汇率",
+    "Coupon服务费及退货等成本",
+    "后台当前可售数",
+    "允许测试预算/亏损",
+    "Loyverse×系统×接口实测矩阵",
+    "实际点击/订单/CVR/CPA"
+  ],
+  "procurement": {
+    "amount": 191,
+    "currency": "CNY"
+  },
+  "freight_costs_are_pure_freight": true,
+  "referral_fee_usd_per_unit_reported": 12.92,
+  "vine_enrolled_units": 10,
+  "vine_claimed_units_reported": 0,
+  "ad_budget_status": "用户未定；建议分两阶段50+100美元，尚未执行",
+  "fx_scenario": {
+    "cny_per_usd": 7.2,
+    "status": "仅计算情景，非当前汇率或实际结算汇率"
+  },
+  "contribution_before_ads_and_extra_fees_scenario": {
+    "air_usd": 19.6322222222,
+    "sea_usd": 31.6322222222
+  }
+}

@@ -1,0 +1,122 @@
+﻿核心词（词根表）,属性词（词根表）,拟投放词：属性＋核心,全词表覆盖词数,非零量词数,零量词数,表内搜索量合计（周期未核）,组合重复提示,pos子串误命中词数
+receipt printer,thermal,thermal receipt printer,77,11,66,4645,,0
+receipt printer,bluetooth,bluetooth receipt printer,65,8,57,2601,,0
+receipt printer,usb,usb receipt printer,11,2,9,225,,0
+receipt printer,80mm,80mm receipt printer,17,2,15,417,,0
+receipt printer,ipad,ipad receipt printer,10,1,9,29,,0
+receipt printer,pos,pos receipt printer,18,2,16,151,,0
+receipt printer,ethernet,ethernet receipt printer,2,2,0,210,,0
+receipt printer,para negocios,para negocios receipt printer,0,0,0,0,,0
+receipt printer,wireless,wireless receipt printer,14,2,12,209,,0
+receipt printer,bluethoot,bluethoot receipt printer,0,0,0,0,,0
+receipt printer,small business,small business receipt printer,2,1,1,103,,0
+pos printer,thermal,thermal pos printer,14,2,12,325,,1
+pos printer,bluetooth,bluetooth pos printer,12,2,10,252,,0
+pos printer,usb,usb pos printer,0,0,0,0,,0
+pos printer,80mm,80mm pos printer,2,0,2,0,,0
+pos printer,ipad,ipad pos printer,0,0,0,0,,0
+pos printer,pos,pos pos printer,60,13,47,7395,属性词已包含在核心词内，未缩小范围,6
+pos printer,ethernet,ethernet pos printer,0,0,0,0,,0
+pos printer,para negocios,para negocios pos printer,0,0,0,0,,0
+pos printer,wireless,wireless pos printer,1,0,1,0,,0
+pos printer,bluethoot,bluethoot pos printer,0,0,0,0,,0
+pos printer,small business,small business pos printer,0,0,0,0,,0
+impresora de recibos,thermal,thermal impresora de recibos,0,0,0,0,,0
+impresora de recibos,bluetooth,bluetooth impresora de recibos,2,0,2,0,,0
+impresora de recibos,usb,usb impresora de recibos,0,0,0,0,,0
+impresora de recibos,80mm,80mm impresora de recibos,0,0,0,0,,0
+impresora de recibos,ipad,ipad impresora de recibos,0,0,0,0,,0
+impresora de recibos,pos,pos impresora de recibos,0,0,0,0,,0
+impresora de recibos,ethernet,ethernet impresora de recibos,0,0,0,0,,0
+impresora de recibos,para negocios,para negocios impresora de recibos,0,0,0,0,,0
+impresora de recibos,wireless,wireless impresora de recibos,0,0,0,0,,0
+impresora de recibos,bluethoot,bluethoot impresora de recibos,0,0,0,0,,0
+impresora de recibos,small business,small business impresora de recibos,0,0,0,0,,0
+ticket printer,thermal,thermal ticket printer,1,0,1,0,,0
+ticket printer,bluetooth,bluetooth ticket printer,1,0,1,0,,0
+ticket printer,usb,usb ticket printer,0,0,0,0,,0
+ticket printer,80mm,80mm ticket printer,0,0,0,0,,0
+ticket printer,ipad,ipad ticket printer,0,0,0,0,,0
+ticket printer,pos,pos ticket printer,0,0,0,0,,0
+ticket printer,ethernet,ethernet ticket printer,0,0,0,0,,0
+ticket printer,para negocios,para negocios ticket printer,0,0,0,0,,0
+ticket printer,wireless,wireless ticket printer,0,0,0,0,,0
+ticket printer,bluethoot,bluethoot ticket printer,0,0,0,0,,0
+ticket printer,small business,small business ticket printer,0,0,0,0,,0
+kitchen printer,thermal,thermal kitchen printer,2,0,2,0,,0
+kitchen printer,bluetooth,bluetooth kitchen printer,1,0,1,0,,0
+kitchen printer,usb,usb kitchen printer,0,0,0,0,,0
+kitchen printer,80mm,80mm kitchen printer,0,0,0,0,,0
+kitchen printer,ipad,ipad kitchen printer,0,0,0,0,,0
+kitchen printer,pos,pos kitchen printer,2,0,2,0,,0
+kitchen printer,ethernet,ethernet kitchen printer,0,0,0,0,,0
+kitchen printer,para negocios,para negocios kitchen printer,0,0,0,0,,0
+kitchen printer,wireless,wireless kitchen printer,1,0,1,0,,0
+kitchen printer,bluethoot,bluethoot kitchen printer,0,0,0,0,,0
+kitchen printer,small business,small business kitchen printer,0,0,0,0,,0
+receipt maker,thermal,thermal receipt maker,0,0,0,0,,0
+receipt maker,bluetooth,bluetooth receipt maker,0,0,0,0,,0
+receipt maker,usb,usb receipt maker,0,0,0,0,,0
+receipt maker,80mm,80mm receipt maker,0,0,0,0,,0
+receipt maker,ipad,ipad receipt maker,0,0,0,0,,0
+receipt maker,pos,pos receipt maker,0,0,0,0,,0
+receipt maker,ethernet,ethernet receipt maker,0,0,0,0,,0
+receipt maker,para negocios,para negocios receipt maker,0,0,0,0,,0
+receipt maker,wireless,wireless receipt maker,0,0,0,0,,0
+receipt maker,bluethoot,bluethoot receipt maker,0,0,0,0,,0
+receipt maker,small business,small business receipt maker,0,0,0,0,,0
+receipt machine,thermal,thermal receipt machine,0,0,0,0,,0
+receipt machine,bluetooth,bluetooth receipt machine,0,0,0,0,,0
+receipt machine,usb,usb receipt machine,0,0,0,0,,0
+receipt machine,80mm,80mm receipt machine,0,0,0,0,,0
+receipt machine,ipad,ipad receipt machine,0,0,0,0,,0
+receipt machine,pos,pos receipt machine,0,0,0,0,,0
+receipt machine,ethernet,ethernet receipt machine,0,0,0,0,,0
+receipt machine,para negocios,para negocios receipt machine,0,0,0,0,,0
+receipt machine,wireless,wireless receipt machine,0,0,0,0,,0
+receipt machine,bluethoot,bluethoot receipt machine,0,0,0,0,,0
+receipt machine,small business,small business receipt machine,0,0,0,0,,0
+bill printer,thermal,thermal bill printer,0,0,0,0,,0
+bill printer,bluetooth,bluetooth bill printer,0,0,0,0,,0
+bill printer,usb,usb bill printer,0,0,0,0,,0
+bill printer,80mm,80mm bill printer,0,0,0,0,,0
+bill printer,ipad,ipad bill printer,0,0,0,0,,0
+bill printer,pos,pos bill printer,0,0,0,0,,0
+bill printer,ethernet,ethernet bill printer,0,0,0,0,,0
+bill printer,para negocios,para negocios bill printer,0,0,0,0,,0
+bill printer,wireless,wireless bill printer,0,0,0,0,,0
+bill printer,bluethoot,bluethoot bill printer,0,0,0,0,,0
+bill printer,small business,small business bill printer,1,0,1,0,,0
+impresora de facturas,thermal,thermal impresora de facturas,0,0,0,0,,0
+impresora de facturas,bluetooth,bluetooth impresora de facturas,0,0,0,0,,0
+impresora de facturas,usb,usb impresora de facturas,0,0,0,0,,0
+impresora de facturas,80mm,80mm impresora de facturas,0,0,0,0,,0
+impresora de facturas,ipad,ipad impresora de facturas,0,0,0,0,,0
+impresora de facturas,pos,pos impresora de facturas,0,0,0,0,,0
+impresora de facturas,ethernet,ethernet impresora de facturas,0,0,0,0,,0
+impresora de facturas,para negocios,para negocios impresora de facturas,1,1,0,195,,0
+impresora de facturas,wireless,wireless impresora de facturas,0,0,0,0,,0
+impresora de facturas,bluethoot,bluethoot impresora de facturas,0,0,0,0,,0
+impresora de facturas,small business,small business impresora de facturas,0,0,0,0,,0
+impresora termica,thermal,thermal impresora termica,0,0,0,0,,0
+impresora termica,bluetooth,bluetooth impresora termica,3,1,2,108,,0
+impresora termica,usb,usb impresora termica,0,0,0,0,,0
+impresora termica,80mm,80mm impresora termica,3,0,3,0,,0
+impresora termica,ipad,ipad impresora termica,0,0,0,0,,0
+impresora termica,pos,pos impresora termica,1,0,1,0,,0
+impresora termica,ethernet,ethernet impresora termica,0,0,0,0,,0
+impresora termica,para negocios,para negocios impresora termica,0,0,0,0,,0
+impresora termica,wireless,wireless impresora termica,0,0,0,0,,0
+impresora termica,bluethoot,bluethoot impresora termica,1,1,0,138,,0
+impresora termica,small business,small business impresora termica,0,0,0,0,,0
+pos receipt printer,thermal,thermal pos receipt printer,4,0,4,0,,0
+pos receipt printer,bluetooth,bluetooth pos receipt printer,4,1,3,23,,0
+pos receipt printer,usb,usb pos receipt printer,0,0,0,0,,0
+pos receipt printer,80mm,80mm pos receipt printer,2,0,2,0,,0
+pos receipt printer,ipad,ipad pos receipt printer,0,0,0,0,,0
+pos receipt printer,pos,pos pos receipt printer,18,2,16,151,属性词已包含在核心词内，未缩小范围,0
+pos receipt printer,ethernet,ethernet pos receipt printer,0,0,0,0,,0
+pos receipt printer,para negocios,para negocios pos receipt printer,0,0,0,0,,0
+pos receipt printer,wireless,wireless pos receipt printer,0,0,0,0,,0
+pos receipt printer,bluethoot,bluethoot pos receipt printer,0,0,0,0,,0
+pos receipt printer,small business,small business pos receipt printer,0,0,0,0,,0

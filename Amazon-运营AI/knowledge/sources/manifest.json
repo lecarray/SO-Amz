@@ -1,0 +1,536 @@
+[
+  {
+    "path": "course/1_橘虹跨境-Soju 高阶广告课 20260312分享学员.pdf",
+    "bytes": 18829464,
+    "sha256": "4d2ea7cf51f65c4a672e297a2b327c43dfe82b5cdaf2699909dc111892ab0d4e",
+    "id": "S",
+    "extracted": "knowledge/sources/S-slides.md",
+    "pages": 231,
+    "empty_pages": [
+      8,
+      10,
+      53,
+      60,
+      70,
+      115,
+      144,
+      158,
+      159,
+      213,
+      216,
+      221
+    ],
+    "chars": 39082
+  },
+  {
+    "path": "course/Claude/10_整理版.docx",
+    "bytes": 26409,
+    "sha256": "3e8102f6198d8ee84e01a31fc8342c1d45befc272f393de0ffe6cfbe4f52f590",
+    "id": "C10",
+    "extracted": "knowledge/sources/C10.md",
+    "paragraphs": 335,
+    "chars": 8187,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day2 第四节",
+      "CTR判定、坑产验算、定价策略、推广难度预估、放量方向与竞品流量分析"
+    ]
+  },
+  {
+    "path": "course/Claude/11_整理版.docx",
+    "bytes": 24330,
+    "sha256": "7f0fcefc8612a5aaff4892682087afbf853aa3b5b20bc25c0879a9e0a393b6d9",
+    "id": "C11",
+    "extracted": "knowledge/sources/C11.md",
+    "paragraphs": 275,
+    "chars": 6432,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day2 第五节",
+      "广告缩放量方向、广告活动拆分合并、预算分配底层逻辑"
+    ]
+  },
+  {
+    "path": "course/Claude/12_整理版.docx",
+    "bytes": 24157,
+    "sha256": "fc0db48d5dd38f00a876813675eb72dd3a291df034bc548963123bd6b162b5dc",
+    "id": "C12",
+    "extracted": "knowledge/sources/C12.md",
+    "paragraphs": 277,
+    "chars": 6726,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day2 第六节",
+      "压竞价（讲价）方案、广告拍卖机制、投放词层级架构、捡漏广告设计"
+    ]
+  },
+  {
+    "path": "course/Claude/13_整理版.docx",
+    "bytes": 22343,
+    "sha256": "705f5858c5f11560b764688a76211d3fce908714404735a9084fa8cb9ef4436b",
+    "id": "C13",
+    "extracted": "knowledge/sources/C13.md",
+    "paragraphs": 221,
+    "chars": 5790,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day3 第一节",
+      "四张表格集中答疑与推广洞察表分析实操（以男士夏威夷衬衫为案例）"
+    ]
+  },
+  {
+    "path": "course/Claude/14_整理版.docx",
+    "bytes": 23141,
+    "sha256": "fb42dc1453c54246129b4ea3be67a6fae588107730e7f5c15dd8fd617b89574f",
+    "id": "C14",
+    "extracted": "knowledge/sources/C14.md",
+    "paragraphs": 243,
+    "chars": 5827,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day3 第二节",
+      "投放词放量与缩量实操：二级词扩充、重复投放排查、广告架构搭建"
+    ]
+  },
+  {
+    "path": "course/Claude/15_整理版.docx",
+    "bytes": 22295,
+    "sha256": "7c72640347607920e1174fec07fb61be3cc3f6ce5a3248d1d032c14d54febefd",
+    "id": "C15",
+    "extracted": "knowledge/sources/C15.md",
+    "paragraphs": 245,
+    "chars": 5728,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day3 第三节",
+      "搜索词漏斗结构、简单型与丰富型广告架构、搜索词放量与缩量、推广顺序选择"
+    ]
+  },
+  {
+    "path": "course/Claude/16_整理版.docx",
+    "bytes": 19733,
+    "sha256": "68249dc6471076d5aa531a07b305c1619ec9eddfbf0b7099ca6889da529bb499",
+    "id": "C16",
+    "extracted": "knowledge/sources/C16.md",
+    "paragraphs": 177,
+    "chars": 4410,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day3 第四节",
+      "商品投放架构搭建、竞价结构诊断与修复、老链接竞价试探"
+    ]
+  },
+  {
+    "path": "course/Claude/17_整理版.docx",
+    "bytes": 22390,
+    "sha256": "29d4cca2636d46292ac1fda9aa526a6840909eeb96fd45fd3bbeff0ed21ff7ab",
+    "id": "C17",
+    "extracted": "knowledge/sources/C17.md",
+    "paragraphs": 219,
+    "chars": 5362,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day3 第五节（晚上）",
+      "多变体广告架构搭建、链接流量增长方向、主推测款与推广节奏"
+    ]
+  },
+  {
+    "path": "course/Claude/18_整理版.docx",
+    "bytes": 21280,
+    "sha256": "81833c2a93f379947ab1b0ae3c6da8099da640cea11a1b8898667893867e88ee",
+    "id": "C18",
+    "extracted": "knowledge/sources/C18.md",
+    "paragraphs": 201,
+    "chars": 5294,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day3 第六节（晚上）",
+      "广告位放量底层逻辑、三种竞价策略、广告位加价、ABCD竞价四档判定体系"
+    ]
+  },
+  {
+    "path": "course/Claude/19_整理版.docx",
+    "bytes": 19789,
+    "sha256": "eb9a2a91cb81cf3e5320c809ab1c0bbbc639823f0a6fcd3721fc3c20d5ed198f",
+    "id": "C19",
+    "extracted": "knowledge/sources/C19.md",
+    "paragraphs": 173,
+    "chars": 4468,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day3 第七节（晚上）",
+      "广告位缩放量应用、预算制定、利润瓶颈突破的四种方向"
+    ]
+  },
+  {
+    "path": "course/Claude/1_整理版.docx",
+    "bytes": 45591,
+    "sha256": "d692a4da1ce1a0e083f51ff2c39b194f0532c9f8d24cd608b9e91b0693a5499d",
+    "id": "C01",
+    "extracted": "knowledge/sources/C01.md",
+    "paragraphs": 334,
+    "chars": 21919,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day1 第一节",
+      "主讲：宋之老师"
+    ]
+  },
+  {
+    "path": "course/Claude/2_整理版.docx",
+    "bytes": 45841,
+    "sha256": "e9b3426a6e96a86cd5dfc2833d3992151f33a45a00be8a44acaefff2da736db0",
+    "id": "C02",
+    "extracted": "knowledge/sources/C02.md",
+    "paragraphs": 502,
+    "chars": 18832,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day1 第二节",
+      "推广目标、广告流量通道与A9算法坑产逻辑"
+    ]
+  },
+  {
+    "path": "course/Claude/3_整理版.docx",
+    "bytes": 44550,
+    "sha256": "99a3506845a54018321c6dab14be05d8624dde2260480a990492a1b87dcf500e",
+    "id": "C03",
+    "extracted": "knowledge/sources/C03.md",
+    "paragraphs": 486,
+    "chars": 17132,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day1 第三节",
+      "COSMO算法解读、广告干预自然位、预期坑产实操"
+    ]
+  },
+  {
+    "path": "course/Claude/4_整理版.docx",
+    "bytes": 50444,
+    "sha256": "91e2aaeb600a09ee8cb1364436823e4f284edf4e08c00caf5cbcc6008c3865fd",
+    "id": "C04",
+    "extracted": "knowledge/sources/C04.md",
+    "paragraphs": 670,
+    "chars": 19508,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day1 第四节",
+      "实际坑产、推广搭配组合、多变体推广"
+    ]
+  },
+  {
+    "path": "course/Claude/5_整理版.docx",
+    "bytes": 34524,
+    "sha256": "25a07493d9cbd14039c57a357d4f91cfb5a1f45b13f6b0f32bbacd783b82a8ef",
+    "id": "C05",
+    "extracted": "knowledge/sources/C05.md",
+    "paragraphs": 490,
+    "chars": 11730,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day1 第五节",
+      "广告预算规划（TACoS）、推广思路总结、关键词调研（H10 Cerebro）"
+    ]
+  },
+  {
+    "path": "course/Claude/6_整理版.docx",
+    "bytes": 41644,
+    "sha256": "03b9e4e69a5ffda965b09a4102825964201b9b141e4ff4f1c439fd2811d3111c",
+    "id": "C06",
+    "extracted": "knowledge/sources/C06.md",
+    "paragraphs": 643,
+    "chars": 14184,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day1 第六节",
+      "准词表纠偏、流量结构分析、推广洞察表、商品投放（PT）"
+    ]
+  },
+  {
+    "path": "course/Claude/7_整理版.docx",
+    "bytes": 24329,
+    "sha256": "73f6dd364e71eb825fc1e789d8ed70a6de954819518d927cbb1fe851b442a553",
+    "id": "C07",
+    "extracted": "knowledge/sources/C07.md",
+    "paragraphs": 277,
+    "chars": 6322,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day2 第一节",
+      "准词表复习纠偏、关键词权重原理、词根互相加权、新品期与断货恢复"
+    ]
+  },
+  {
+    "path": "course/Claude/8_整理版.docx",
+    "bytes": 26793,
+    "sha256": "eac0fe9187cc1d28f3136221a237bca6a36d84cb03c5ff2734031a7686e7d01b",
+    "id": "C08",
+    "extracted": "knowledge/sources/C08.md",
+    "paragraphs": 333,
+    "chars": 8095,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day2 第二节",
+      "流量词与投放词、全词表制作、匹配方式原理、词根分类与投放预判"
+    ]
+  },
+  {
+    "path": "course/Claude/9_整理版.docx",
+    "bytes": 23722,
+    "sha256": "e570a099219cb503e6f5df6320914c69e1425214aef9f40663e56300a71967ee",
+    "id": "C09",
+    "extracted": "knowledge/sources/C09.md",
+    "paragraphs": 258,
+    "chars": 6499,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day2 第三节",
+      "推广洞察表应用、竞价（CPC）市调体系、转化率（CVR）判定方法"
+    ]
+  },
+  {
+    "path": "course/原稿转译/10.wav05-转写结果.docx",
+    "bytes": 46437,
+    "sha256": "8ad45e0f20bf16dec3d8c035d12c3ced5314952a010a5e22c97e55bb33b97cea",
+    "id": "R10",
+    "extracted": "knowledge/sources/R10.md",
+    "paragraphs": 165,
+    "chars": 25756,
+    "title": [
+      "10.wav",
+      "说话人1 00:00给我好好学习，给我看一下我们俩长得怎么样？刚讲完了关于cvr和CBC的一个衡量指标，再说一下ctr的衡量指标。 Ctr的衡量是这样子的，就是在我们的广告活动里面，你的活动它有三个广告位，这三个广告位一般来说你只能去横向的去跟竞品比对，或者说如果你是做垂直类目的话，你会更加好比对一点，但是正常来讲你的广告活动CT二是没有办法去衡量说它的CT二到底是好还是坏的，所以我们如果说想要用一个客观的方式去衡量的话，也只能通过这个地方来叫搜索绩效表现a三视图这个地方大家都进去过了没有？"
+    ]
+  },
+  {
+    "path": "course/原稿转译/11.wav01-转写结果.docx",
+    "bytes": 43749,
+    "sha256": "3886ca8ff16e058da4a92536ed8e5238c52b9f18a8b523563611ab0acd3a927d",
+    "id": "R11",
+    "extracted": "knowledge/sources/R11.md",
+    "paragraphs": 181,
+    "chars": 22876,
+    "title": [
+      "11.wav",
+      "说话人1 00:00饿了吗？"
+    ]
+  },
+  {
+    "path": "course/原稿转译/12.wav01-转写结果.docx",
+    "bytes": 56631,
+    "sha256": "b1ed725d7482e421537653d381a0f285160fb2a150cf197a3dec8c932de1c1af",
+    "id": "R12",
+    "extracted": "knowledge/sources/R12.md",
+    "paragraphs": 260,
+    "chars": 32578,
+    "title": [
+      "12.wav",
+      "说话人1 00:00什么？强度有一个什么医疗问题对不对？因为这个系统谁在那个货咱们的了，谁知上课就17分钟的朋友，我们这就不管用的话，我们就可以了。咱们要取得的这个词的词吗，没事，也是不好意思的，谁知谁知数据谁知但是没有损害的人，规的情况重新摆的，谁知我彻底忘了开始这样的，然后就我们两个但是一定要把这个东西谁知工业园对吧？"
+    ]
+  },
+  {
+    "path": "course/原稿转译/13.wav_20260503_212846.docx",
+    "bytes": 44335,
+    "sha256": "256e86560e7df60b2fa634265cfe391e6ce0b4424116babbcca756878b74f516",
+    "id": "R13",
+    "extracted": "knowledge/sources/R13.md",
+    "paragraphs": 203,
+    "chars": 24956,
+    "title": [
+      "13.wav",
+      "1号讲话人  00:00:00同学们，我们的课程马上就要开始了，后面的同学抓紧时间回到我们的座位上面。"
+    ]
+  },
+  {
+    "path": "course/原稿转译/14.docx",
+    "bytes": 43647,
+    "sha256": "0da895348155fb93a1429e39cffa7ff1c46e4281a9303407c6f1798d5e437f8b",
+    "id": "R14",
+    "extracted": "knowledge/sources/R14.md",
+    "paragraphs": 269,
+    "chars": 29923,
+    "title": [
+      "原文",
+      "00:00 未区分说话人"
+    ]
+  },
+  {
+    "path": "course/原稿转译/15.docx",
+    "bytes": 41390,
+    "sha256": "4559d7b0117021e2246da12603865987ddfc9fa61f24dd66e1c290a2d372653a",
+    "id": "R15",
+    "extracted": "knowledge/sources/R15.md",
+    "paragraphs": 271,
+    "chars": 27906,
+    "title": [
+      "原文",
+      "00:00 说话人1"
+    ]
+  },
+  {
+    "path": "course/原稿转译/16.docx",
+    "bytes": 42858,
+    "sha256": "8531ead9467ec8a006fde881894a8ed111ade9f6c237db232368b804cc736efe",
+    "id": "R16",
+    "extracted": "knowledge/sources/R16.md",
+    "paragraphs": 309,
+    "chars": 29223,
+    "title": [
+      "原文",
+      "00:02 说话人1"
+    ]
+  },
+  {
+    "path": "course/原稿转译/17.docx",
+    "bytes": 33377,
+    "sha256": "8d292212e4cd9137a58479cab99b392e1a89a10e0755b05a03addadd841e2bcc",
+    "id": "R17",
+    "extracted": "knowledge/sources/R17.md",
+    "paragraphs": 167,
+    "chars": 19522,
+    "title": [
+      "原文",
+      "00:00 未区分说话人"
+    ]
+  },
+  {
+    "path": "course/原稿转译/18.docx",
+    "bytes": 45544,
+    "sha256": "c23ab2ef9d103b41f67acd4af8e875c37e324c810f4b0a63c9435962549181cf",
+    "id": "R18",
+    "extracted": "knowledge/sources/R18.md",
+    "paragraphs": 311,
+    "chars": 32766,
+    "title": [
+      "原文",
+      "00:11 说话人1"
+    ]
+  },
+  {
+    "path": "course/原稿转译/19.docx",
+    "bytes": 36353,
+    "sha256": "4a9924edaa6c67c704cd43d108677e6fe0e13f05f22f9541e04701f6b9a1739e",
+    "id": "R19",
+    "extracted": "knowledge/sources/R19.md",
+    "paragraphs": 203,
+    "chars": 23304,
+    "title": [
+      "原文",
+      "00:00 说话人1"
+    ]
+  },
+  {
+    "path": "course/原稿转译/1_整理版.docx",
+    "bytes": 45591,
+    "sha256": "d692a4da1ce1a0e083f51ff2c39b194f0532c9f8d24cd608b9e91b0693a5499d",
+    "id": "R01",
+    "extracted": "knowledge/sources/R01.md",
+    "paragraphs": 334,
+    "chars": 21919,
+    "title": [
+      "亚马逊白帽推广高阶特训营 - Day1 第一节",
+      "主讲：宋之老师"
+    ]
+  },
+  {
+    "path": "course/原稿转译/2-转写结果.docx",
+    "bytes": 34567,
+    "sha256": "ca6405e1362aacd5e68ef374ea72ac6d2df1a94fac5c3a88117d4f3f8adb6fee",
+    "id": "R02",
+    "extracted": "knowledge/sources/R02.md",
+    "paragraphs": 184,
+    "chars": 26047,
+    "title": [
+      "2",
+      "说话人1 00:00数据。"
+    ]
+  },
+  {
+    "path": "course/原稿转译/3.wav-转写结果.docx",
+    "bytes": 32084,
+    "sha256": "1f4fc08225edd5682a52b53d719235296a88d415f376110acd82ba3d19843f54",
+    "id": "R03",
+    "extracted": "knowledge/sources/R03.md",
+    "paragraphs": 147,
+    "chars": 22479,
+    "title": [
+      "3.wav",
+      "说话人1 00:00应该是很完整的。好，大家抓紧时间坐到自己的座位上面。在开课之前跟大家讲一下，因为这三天三夜的内容，子欣老师的课程内容是非常的丰富的，我们就是在今天和明天后天会这三天的课程会越来越伤了，需要大家集中精力去听子晴老师的课，因为课程内容也非常的多，所以这三天课程主要是先听老师讲，如果大家后续有什么问题，我们可以在课程群里面去问老师好不好？"
+    ]
+  },
+  {
+    "path": "course/原稿转译/4.wav-转写结果.docx",
+    "bytes": 39165,
+    "sha256": "9eacd0f1c60044eaa97a9f3f42d37833da79287387d553d392e29c4b7ad95e07",
+    "id": "R04",
+    "extracted": "knowledge/sources/R04.md",
+    "paragraphs": 210,
+    "chars": 28759,
+    "title": [
+      "4.wav",
+      "说话人1 00:00 Ok。谢谢大家。我前面已经讲过了关于玉溪生产的干预所产生的效果，接下来说一下实际生产。先说我们怎么发现这个事情的，首先是一种我们做站外的时候会发现，比如说这个产品就是我们前段时间做了个账外的，这产品的原先它的单量可以看这是单量，原先单量大概是0单，每天没有单，每天大概就是没有单的状态。"
+    ]
+  },
+  {
+    "path": "course/原稿转译/5.wav-转写结果.docx",
+    "bytes": 34113,
+    "sha256": "006172398f1748b6b42be7bcd52905dba7254c70c910258db0247bafca96b335",
+    "id": "R05",
+    "extracted": "knowledge/sources/R05.md",
+    "paragraphs": 208,
+    "chars": 25021,
+    "title": [
+      "5.wav",
+      "说话人1 00:09好，大家回到位置上。"
+    ]
+  },
+  {
+    "path": "course/原稿转译/6.wav-转写结果.docx",
+    "bytes": 41228,
+    "sha256": "fbcdb1db336ac44f7312caf18527d4159dfc78040b30f5ce98796e3bf502a1ab",
+    "id": "R06",
+    "extracted": "knowledge/sources/R06.md",
+    "paragraphs": 267,
+    "chars": 30003,
+    "title": [
+      "6.wav",
+      "说话人1 00:00我们刚刚在。"
+    ]
+  },
+  {
+    "path": "course/原稿转译/7.wav02-转写结果.docx",
+    "bytes": 50582,
+    "sha256": "8909088c6747c90534fb421ade5ef192af6d7dad803ab6a971fada5be41d8b6e",
+    "id": "R07",
+    "extracted": "knowledge/sources/R07.md",
+    "paragraphs": 280,
+    "chars": 26756,
+    "title": [
+      "7.wav",
+      "说话人1 00:02没有。好，我们。"
+    ]
+  },
+  {
+    "path": "course/原稿转译/8.wav03-转写结果.docx",
+    "bytes": 46522,
+    "sha256": "216e31a239dbb732b63f0e9797a4d613f8d18a550e95c15c71f97df157b2146e",
+    "id": "R08",
+    "extracted": "knowledge/sources/R08.md",
+    "paragraphs": 211,
+    "chars": 24932,
+    "title": [
+      "8.wav",
+      "说话人1 00:00上面两个人通知，谁知谁知。"
+    ]
+  },
+  {
+    "path": "course/原稿转译/9.wav04-转写结果.docx",
+    "bytes": 38194,
+    "sha256": "54ee576d25f347743f2cd9a8f25671ad5d68624d958dd314aed87a8f87b0bfbe",
+    "id": "R09",
+    "extracted": "knowledge/sources/R09.md",
+    "paragraphs": 128,
+    "chars": 20024,
+    "title": [
+      "9.wav",
+      "说话人1 00:00好，我们后面的同学抓紧时间进到会场里面，我们马上课。看一下身边如果还有同伴没来的，可以发信息，稍微的催一下，我们马上上课了，欢迎。谁知好，大家刚刚午睡回来，大家打起精神，我们用掌声有请老师开始下午的授课。"
+    ]
+  },
+  {
+    "path": "course/搜索词透视表模板-新.xlsx",
+    "bytes": 187884,
+    "sha256": "0c10109c2dc45c678a7e459172b120ee9bc68532fc60a268fbcf9c1620383b30",
+    "id": "X",
+    "extracted": "knowledge/sources/X-template.md",
+    "sheets": [
+      "搜索词报告（SP）- 每日",
+      "搜索词透视表"
+    ],
+    "source_nonempty_cells": 24,
+    "source_data_rows": 0,
+    "pivot_nonempty_cells": 29,
+    "calculated_fields": 5,
+    "pivot_cache_records": 1,
+    "read_status": "全部非空单元格、透视定义与缓存只读检查完成；未实测交互刷新"
+  }
+]
